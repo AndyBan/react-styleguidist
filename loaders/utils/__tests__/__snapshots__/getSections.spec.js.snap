@@ -45,7 +45,7 @@ Array [
         "filepath": "components/Placeholder/Placeholder.js",
         "hasExamples": true,
         "metadata": Object {
-          "require": "!!json-loader!~/test/components/Placeholder/Placeholder.json",
+          "require": "~/test/components/Placeholder/Placeholder.json",
         },
         "module": Object {
           "require": "~/test/components/Placeholder/Placeholder.js",
@@ -96,7 +96,7 @@ Array [
         "filepath": "components/Placeholder/Placeholder.js",
         "hasExamples": true,
         "metadata": Object {
-          "require": "!!json-loader!~/test/components/Placeholder/Placeholder.json",
+          "require": "~/test/components/Placeholder/Placeholder.json",
         },
         "module": Object {
           "require": "~/test/components/Placeholder/Placeholder.js",
@@ -164,7 +164,7 @@ Object {
       "filepath": "components/Placeholder/Placeholder.js",
       "hasExamples": true,
       "metadata": Object {
-        "require": "!!json-loader!~/test/components/Placeholder/Placeholder.json",
+        "require": "~/test/components/Placeholder/Placeholder.json",
       },
       "module": Object {
         "require": "~/test/components/Placeholder/Placeholder.js",
@@ -232,7 +232,7 @@ Object {
       "filepath": "components/Placeholder/Placeholder.js",
       "hasExamples": true,
       "metadata": Object {
-        "require": "!!json-loader!~/test/components/Placeholder/Placeholder.json",
+        "require": "~/test/components/Placeholder/Placeholder.json",
       },
       "module": Object {
         "require": "~/test/components/Placeholder/Placeholder.js",
